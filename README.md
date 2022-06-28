@@ -5,7 +5,7 @@
 ## Exercise 1: E2E Application development:
 
 This is a simple Django CRUD application to create, read, update and delete employee data.   
-To run the Application, make sure you have docker and docker-compose installed and issue the command below while in the crudapp directory: 
+To run the Application, make sure you have docker and docker-compose installed and issue the command below while on the crudapp directory: 
 
 ```
 docker-compose up -d
