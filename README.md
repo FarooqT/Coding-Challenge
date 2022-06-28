@@ -11,7 +11,7 @@ To run the Application, make sure you have docker and docker-compose installed a
 docker-compose up -d
 ```
 
-**The application will be accessiable on  “http://localhost:8080”**
+**The application will be accessiable on  http://localhost:8080**
 
 ---
 
